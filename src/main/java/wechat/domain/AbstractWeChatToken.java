@@ -16,7 +16,7 @@ import lombok.ToString;
 public  class AbstractWeChatToken extends AbstractDomain<Integer> {
 
 	private Integer id;
-	/**公众号appid或开放平台应用appid*/
+	/**公众号appid或开放平台应用appid1*/
 	private String appId;
 	/**开放平台的component_access_token(服务开发方的access_token) */
 	private String componentAccessToken;
