@@ -28,7 +28,7 @@ public  class AbstractWeChatToken extends AbstractDomain<Integer> {
 	private String authorizerAccessToken;
 	/**component_access_token或authorizer_access_token产生时间*/
 	private Date acceccTokenCreateTime;
-	
+	private int ceshi;
 	public AbstractWeChatToken(){}
 	
 
