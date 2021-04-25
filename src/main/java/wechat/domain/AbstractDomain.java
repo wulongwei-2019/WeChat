@@ -9,6 +9,6 @@ import lombok.ToString;
 public abstract class AbstractDomain<ID extends Serializable>{
 
 	/**删除标识*/
-	private Boolean hasDeleted;
+	private Boolean hasDelet11d;
 	
 }
